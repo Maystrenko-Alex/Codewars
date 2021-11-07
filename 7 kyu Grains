@@ -1,0 +1,8 @@
+function square(number){
+  //your code here
+ if ( number === 1) {
+   return 1;
+ } else {
+  return 2*square(number-1);
+  }
+}
