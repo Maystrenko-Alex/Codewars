@@ -1,4 +1,4 @@
-function square(number){
+function square(number) {
   //your code here
  if ( number === 1) {
    return 1;
